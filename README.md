@@ -4,7 +4,7 @@
 
 ## Links
 
-* Repo Link: [https://bitbucket.org/S530742/crypto-markets.git](https://bitbucket.org/S530742/crypto-markets.git)
+* Repo Link: [https://github.com/chvnaveenkumar/Crypto-Markets.git](https://github.com/chvnaveenkumar/Crypto-Markets.git)
 
 ## Introduction:
 
