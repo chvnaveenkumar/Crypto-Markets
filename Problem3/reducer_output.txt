@@ -1,0 +1,30 @@
+AntiBitcoin	0.015273
+Bitcoin	19475.8
+Bitcoin 21	0.468773
+Bitcoin Atom	1368.09
+Bitcoin Cash	3909.0
+Bitcoin Diamond	94.2
+Bitcoin Fast	0.327992
+Bitcoin God	137.83
+Bitcoin Gold	498.44
+Bitcoin Green	4.81
+Bitcoin Planet	0.279176
+Bitcoin Plus	188.71
+Bitcoin Private	76.82
+Bitcoin Red	0.504446
+Bitcoin Scrypt	0.461417
+BitcoinDark	375.4
+BitcoinX	0.10218
+BitcoinZ	0.02217
+Debitcoin	0.014055
+First Bitcoin	0.211059
+First Bitcoin Capital	1.04
+Lightning Bitcoin [Futures]	538.94
+LiteBitcoin	0.052147
+Orbitcoin	1.27
+QubitCoin	0.021573
+RabbitCoin	9.1e-05
+Super Bitcoin	325.25
+United Bitcoin	503.97
+eBitcoin	1.87
+eBitcoinCash	0.20595

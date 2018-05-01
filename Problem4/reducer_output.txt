@@ -1,0 +1,30 @@
+BitCoin Name: AntiBitcoin	 Difference bwn Avg of Open and close value: -5.67955112219e-06
+BitCoin Name: Bitcoin	 Difference bwn Avg of Open and close value: -4.44997211377
+BitCoin Name: Bitcoin 21	 Difference bwn Avg of Open and close value: -0.000332771689498
+BitCoin Name: Bitcoin Atom	 Difference bwn Avg of Open and close value: 12.3374647887
+BitCoin Name: Bitcoin Cash	 Difference bwn Avg of Open and close value: -0.979430894309
+BitCoin Name: Bitcoin Diamond	 Difference bwn Avg of Open and close value: 0.528442622951
+BitCoin Name: Bitcoin Fast	 Difference bwn Avg of Open and close value: 7.40443686007e-06
+BitCoin Name: Bitcoin God	 Difference bwn Avg of Open and close value: 1.27246575342
+BitCoin Name: Bitcoin Gold	 Difference bwn Avg of Open and close value: 2.91694805195
+BitCoin Name: Bitcoin Green	 Difference bwn Avg of Open and close value: 0.22
+BitCoin Name: Bitcoin Planet	 Difference bwn Avg of Open and close value: 8.32846715328e-05
+BitCoin Name: Bitcoin Plus	 Difference bwn Avg of Open and close value: -0.00640219088936
+BitCoin Name: Bitcoin Private	 Difference bwn Avg of Open and close value: 2.015
+BitCoin Name: Bitcoin Red	 Difference bwn Avg of Open and close value: -0.000309986842105
+BitCoin Name: Bitcoin Scrypt	 Difference bwn Avg of Open and close value: 5.25210084034e-06
+BitCoin Name: BitcoinDark	 Difference bwn Avg of Open and close value: -0.0446296612306
+BitCoin Name: BitcoinX	 Difference bwn Avg of Open and close value: 0.000659712871287
+BitCoin Name: BitcoinZ	 Difference bwn Avg of Open and close value: -1.66909090909e-05
+BitCoin Name: Debitcoin	 Difference bwn Avg of Open and close value: 3.08796296296e-06
+BitCoin Name: First Bitcoin	 Difference bwn Avg of Open and close value: -0.000109621890547
+BitCoin Name: First Bitcoin Capital	 Difference bwn Avg of Open and close value: -0.000414640350877
+BitCoin Name: Lightning Bitcoin [Futures]	 Difference bwn Avg of Open and close value: -0.0990243902438
+BitCoin Name: LiteBitcoin	 Difference bwn Avg of Open and close value: -2.5843373494e-05
+BitCoin Name: Orbitcoin	 Difference bwn Avg of Open and close value: -0.000212897615708
+BitCoin Name: QubitCoin	 Difference bwn Avg of Open and close value: 8.57943925233e-07
+BitCoin Name: RabbitCoin	 Difference bwn Avg of Open and close value: -5.9338961039e-08
+BitCoin Name: Super Bitcoin	 Difference bwn Avg of Open and close value: 1.97158415842
+BitCoin Name: United Bitcoin	 Difference bwn Avg of Open and close value: 4.83663265306
+BitCoin Name: eBitcoin	 Difference bwn Avg of Open and close value: -0.000521164383562
+BitCoin Name: eBitcoinCash	 Avg of Open value: 0.0726222093023	 Avg of close value: 0.0726899844961

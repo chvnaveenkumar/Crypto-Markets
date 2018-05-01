@@ -1,0 +1,61 @@
+
+
+Name of Bitcoin: AntiBitcoin	 Avg value: 0.00247516458853	
+
+Name of Bitcoin: Bitcoin	 Avg value: 1692.25754601	
+
+Name of Bitcoin: Bitcoin21	 Avg value: 0.0726462313546	
+
+Name of Bitcoin: BitcoinAtom	 Avg value: 184.826056338	
+
+Name of Bitcoin: BitcoinCash	 Avg value: 1194.99605691	
+
+Name of Bitcoin: BitcoinDark	 Avg value: 29.7027877835	
+
+Name of Bitcoin: BitcoinDiamond	 Avg value: 31.0332786885	
+
+Name of Bitcoin: BitcoinFast	 Avg value: 0.0178912226962	
+
+Name of Bitcoin: BitcoinGod	 Avg value: 56.73	
+
+Name of Bitcoin: BitcoinGold	 Avg value: 217.167077922	
+
+Name of Bitcoin: BitcoinGreen	 Avg value: 4.6375	
+
+Name of Bitcoin: BitcoinPlanet	 Avg value: 0.0385561642336	
+
+Name of Bitcoin: BitcoinPlus	 Avg value: 23.5122873832	
+
+Name of Bitcoin: BitcoinPrivate	 Avg value: 46.286875	
+
+Name of Bitcoin: BitcoinRed	 Avg value: 0.0975107171053	
+
+Name of Bitcoin: BitcoinScrypt	 Avg value: 0.0190334843392	
+
+Name of Bitcoin: BitcoinX	 Avg value: 0.033161039604	
+
+Name of Bitcoin: BitcoinZ	 Avg value: 0.00776504848485	
+
+Name of Bitcoin: Debitcoin	 Avg value: 0.00347821450617	
+
+Name of Bitcoin: FirstBitcoin	 Avg value: 0.0144773034826	
+
+Name of Bitcoin: FirstBitcoinCapital	 Avg value: 0.253544364035	
+
+Name of Bitcoin: LightningBitcoin[Futures]	 Avg value: 308.349146341	
+
+Name of Bitcoin: LiteBitcoin	 Avg value: 0.0114559919679	
+
+Name of Bitcoin: Orbitcoin	 Avg value: 0.114296804348	
+
+Name of Bitcoin: QubitCoin	 Avg value: 0.00175900747664	
+
+Name of Bitcoin: RabbitCoin	 Avg value: 6.99201038961e-06	
+
+Name of Bitcoin: SuperBitcoin	 Avg value: 102.168514851	
+
+Name of Bitcoin: UnitedBitcoin	 Avg value: 165.847755102	
+
+Name of Bitcoin: eBitcoin	 Avg value: 0.617268123288	
+
+Name of Bitcoin: Bitcoin	 AVG high value: 1692.25754601	

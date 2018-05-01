@@ -1,0 +1,32 @@
+Name of Bitcoin: Bitcoin Least high value: 100.58
+Name of Bitcoin: Bitcoin21 Least high value: 0.000995
+Name of Bitcoin: BitcoinAtom Least high value: 1203.62
+Name of Bitcoin: BitcoinCash Least high value: 1019.43
+Name of Bitcoin: BitcoinDark Least high value: 0.367562
+Name of Bitcoin: BitcoinDiamond Least high value: 104.84
+Name of Bitcoin: BitcoinFast Least high value: 0.000058
+Name of Bitcoin: BitcoinGod Least high value: 117.49
+Name of Bitcoin: BitcoinGold Least high value: 102.27
+Name of Bitcoin: BitcoinGreen Least high value: 3.91
+Name of Bitcoin: BitcoinPlanet Least high value: 0.007235
+Name of Bitcoin: BitcoinPlus Least high value: 0.063495
+Name of Bitcoin: BitcoinPrivate Least high value: 29.4
+Name of Bitcoin: BitcoinRed Least high value: 0.004138
+Name of Bitcoin: BitcoinScrypt Least high value: 0.000205
+Name of Bitcoin: BitcoinX Least high value: 0.003313
+Name of Bitcoin: BitcoinZ Least high value: 0.002692
+Name of Bitcoin: Debitcoin Least high value: 0.000044
+Name of Bitcoin: FirstBitcoin Least high value: 0.00015
+Name of Bitcoin: FirstBitcoinCapital Least high value: 0.051741
+Name of Bitcoin: LightningBitcoin[Futures] Least high value: 1037.53
+Name of Bitcoin: LiteBitcoin Least high value: 0.001359
+Name of Bitcoin: Orbitcoin Least high value: 0.007205
+Name of Bitcoin: QubitCoin Least high value: 0.000019
+Name of Bitcoin: RabbitCoin Least high value: 0.000000083
+Name of Bitcoin: SuperBitcoin Least high value: 101.68
+Name of Bitcoin: UnitedBitcoin Least high value: 102.91
+Name of Bitcoin: eBitcoin Least high value: 0.096419
+Name of Bitcoin: eBitcoinCash Least high value: 0.013353
+
+
+Name of Bitcoin: RabbitCoin	 Least high value of all the currencies: 0.000000083	
